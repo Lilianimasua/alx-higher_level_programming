@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+PYFILE=/path/to/your/python_script.py
+./run_python.sh
